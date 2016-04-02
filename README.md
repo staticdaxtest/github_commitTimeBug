@@ -6,4 +6,4 @@ After the some googling I decided to use the command `export GIT_SSL_NO_VERIFY=1
 Soon I found github cannot track my commit correctly which notice me machine's time was misconfigured.
 So come to the conclusion, if you set env variety "GIT_SSL_NO_VERIFY=1" and set time as you want, theoretically you can commit anything at anytime.
 
-Why not have some fun with playing this? :)
+Why not have some fun with this? :)
